@@ -19,8 +19,7 @@ I'm a **Flutter Developer** passionate about building high-quality, efficient, a
 - Community-driven Flutter development  
 
 ### 📫 How to Reach Me  
-- GitHub: [github.com/YayaBardweel](https://github.com/YayaBardweel)  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- GitHub: [github.com/YayaBardweel](https://github.com/YayaBardweel)   
 - Email: [yahyed3@gmail.com](#)  
 
 ### ⚡ Fun Fact  
