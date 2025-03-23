@@ -26,5 +26,3 @@ I'm a **Flutter Developer** passionate about building high-quality, efficient, a
 I love experimenting with new UI/UX designs and optimizing app performance to enhance user experience! 🚀  
 
 ---
-
-Feel free to customize it with your actual contact details and links. Let me know if you want any refinements! 😊  
